@@ -1,0 +1,22 @@
+.card{
+    margin: 0.7vmax;
+    background-color: white;
+    height: min-content;
+    min-width: 10vw;
+    max-width: 13vw;
+    border-radius: 1vmin;
+    /* border: 1px solid white; */
+    
+}
+.card img{
+    border: 1px solid white;
+    transition: all .2s ease-in-out;
+    border-radius: 0.7vmin;
+    height: 30vh;
+    width: 100%;
+
+}
+
+.card :hover {
+    opacity: 0.7;
+}

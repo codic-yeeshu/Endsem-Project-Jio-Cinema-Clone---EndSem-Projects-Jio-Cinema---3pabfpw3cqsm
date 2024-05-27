@@ -1,0 +1,51 @@
+
+.navbar{
+    align-items: center;
+    width: 100vw;
+    height: 5vmax;
+    min-height: 8vh;
+    background-color: #3c1501;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+
+}
+.logo{
+    align-items: center;
+    color: white;
+    font-size: 1.8vmax;
+    font-weight: bolder;
+    display: flex;
+    margin-left: 6vmin;
+    min-width: 5vh;
+}
+.logo img{
+    width: 3.6vmax;
+    min-width: 5vh;
+    min-height: 5vh;
+    height: 3.6vmax;
+}
+.logo p{
+    margin-left: 1.5vmin;
+    
+}
+.signinButton{
+    width: 5%;
+    min-width: fit-content;
+    height: 40%;
+    align-items: center;
+    text-align: center;
+    background-color: #dedede;
+    border-radius: 5px;
+    margin-right: 4.4vw;
+    padding: 0.5vmin 0.7vmin;
+    font-size: 80%;
+}
+.signinButton:hover{
+    transition: all .1s ease-in-out;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+

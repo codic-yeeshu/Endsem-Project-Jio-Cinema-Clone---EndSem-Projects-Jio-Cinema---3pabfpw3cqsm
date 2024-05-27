@@ -1,8 +1,11 @@
 {
+  "homepage": "https://codic-yeeshu.github.io/Endsem-Project-Jio-Cinema-Clone---EndSem-Projects-Jio-Cinema---3pabfpw3cqsm",
   "name": "end-sem-project-boilerplate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -14,6 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy" :"npm run build",
+    "deploy" :"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.3"
   }
 }

@@ -1,0 +1,18 @@
+.carousel{
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    height: 35vh;
+    
+}
+.categoryName{
+    color: white;
+    font-size: 2vmax;
+    font-weight: bolder;
+    margin-left: 2vmax;
+    
+}
+.category{
+    width: 96vw;
+    margin-left: 2vw;
+}
