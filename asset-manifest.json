@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Endsem-Project-Jio-Cinema-Clone---EndSem-Projects-Jio-Cinema---3pabfpw3cqsm/static/css/main.3fd5f8f6.css",
+    "main.js": "/Endsem-Project-Jio-Cinema-Clone---EndSem-Projects-Jio-Cinema---3pabfpw3cqsm/static/js/main.99c4a07d.js",
+    "index.html": "/Endsem-Project-Jio-Cinema-Clone---EndSem-Projects-Jio-Cinema---3pabfpw3cqsm/index.html",
+    "main.3fd5f8f6.css.map": "/Endsem-Project-Jio-Cinema-Clone---EndSem-Projects-Jio-Cinema---3pabfpw3cqsm/static/css/main.3fd5f8f6.css.map",
+    "main.99c4a07d.js.map": "/Endsem-Project-Jio-Cinema-Clone---EndSem-Projects-Jio-Cinema---3pabfpw3cqsm/static/js/main.99c4a07d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd5f8f6.css",
+    "static/js/main.99c4a07d.js"
+  ]
+}
